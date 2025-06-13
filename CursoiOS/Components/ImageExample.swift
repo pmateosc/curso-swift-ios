@@ -2,7 +2,7 @@
 //  ImageExample.swift
 //  CursoiOS
 //
-//  Created by PABLO MATEOS, Vodafone on 9/6/25.
+//  Created by PABLO MATEOS on 9/6/25.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  IMCResult.swift
 //  CursoiOS
 //
-//  Created by PABLO MATEOS, Vodafone on 11/6/25.
+//  Created by PABLO MATEOS on 11/6/25.
 //
 
 import SwiftUI

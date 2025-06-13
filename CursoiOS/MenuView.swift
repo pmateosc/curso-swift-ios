@@ -2,7 +2,7 @@
 //  MenuView.swift
 //  CursoiOS
 //
-//  Created by PABLO MATEOS, Vodafone on 10/6/25.
+//  Created by PABLO MATEOS on 10/6/25.
 //
 
 import SwiftUI
@@ -10,9 +10,12 @@ import SwiftUI
 struct MenuView: View {
     var body: some View {
         NavigationStack {
-            VStack {
+            List {
                 NavigationLink(destination: IMCView()) {
                     Text("IMC calculator")
+                }
+                NavigationLink(destination: SuperheroFinder()) {
+                    Text("Superhero Finder")
                 }
                 Text("Parking app")
                 Text("Mis recetas")

@@ -2,7 +2,7 @@
 //  CursoiOSApp.swift
 //  CursoiOS
 //
-//  Created by PABLO MATEOS, Vodafone on 8/6/25.
+//  Created by PABLO MATEOS on 8/6/25.
 //
 
 import SwiftUI
