@@ -8,12 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		0770EF4F2DFDF24A00243CFA /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 0770EF4E2DFDF24A00243CFA /* SDWebImageSwiftUI */; };
-		0770EF552DFE084200243CFA /* MapExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0770EF542DFE084200243CFA /* MapExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		072E2CA82DF61E2C000C1D19 /* CursoiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CursoiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0770EF542DFE084200243CFA /* MapExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,7 +37,6 @@
 		072E2C9F2DF61E2C000C1D19 = {
 			isa = PBXGroup;
 			children = (
-				0770EF542DFE084200243CFA /* MapExample.swift */,
 				072E2CAA2DF61E2C000C1D19 /* CursoiOS */,
 				072E2CA92DF61E2C000C1D19 /* Products */,
 			);
@@ -131,7 +128,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0770EF552DFE084200243CFA /* MapExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
